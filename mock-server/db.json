@@ -1,0 +1,23 @@
+{
+  "user": {
+    "fullName": "test"
+  },
+  "applicants": [
+    {
+      "name": "鈴木一郎",
+      "status": "新着応募"
+    },
+    {
+      "name": "鈴木次郎",
+      "status": "選考中"
+    },
+    {
+      "name": "鈴木三郎",
+      "status": "選考中"
+    },
+    {
+      "name": "鈴木四郎",
+      "status": "辞退"
+    }
+  ]
+}
