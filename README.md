@@ -12,9 +12,9 @@ v10.17.0
 current: v8.6.0
 
 
-$ nodebrew use v8.6.0
+$ nodebrew use v10.16.0
 
-use v8.6.0
+use v10.16.0
 
 ```
 
